@@ -1,9 +1,8 @@
 //
 //  SessionResponse.swift
-//  TheMovieManager
+//  MovieWorld
 //
-//  Created by Owen LaRosa on 8/13/18.
-//  Copyright © 2018 Udacity. All rights reserved.
+//   Created by Marimuthu T on 07/09/21.
 //
 
 import Foundation

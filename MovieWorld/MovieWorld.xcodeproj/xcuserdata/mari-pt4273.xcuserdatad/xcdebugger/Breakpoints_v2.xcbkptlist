@@ -30,8 +30,8 @@
             filePath = "MovieClient/TMDBClient.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "177"
-            endingLineNumber = "177"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
             landmarkName = "movieSearch(for:completionHandler:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -142,8 +142,8 @@
             filePath = "MovieClient/TMDBClient.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "145"
-            endingLineNumber = "145"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
             landmarkName = "imageLoader(forPath:completionHandler:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -158,8 +158,8 @@
             filePath = "MovieClient/TMDBClient.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "153"
-            endingLineNumber = "153"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
             landmarkName = "imageLoader(forPath:completionHandler:)"
             landmarkType = "7">
          </BreakpointContent>

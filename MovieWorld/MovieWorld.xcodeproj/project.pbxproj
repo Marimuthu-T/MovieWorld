@@ -37,6 +37,7 @@
 		7CDE4D1026E85CD500520EE8 /* MovieDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CDE4D0F26E85CD400520EE8 /* MovieDetailViewController.swift */; };
 		7CDE4D1226E87B4000520EE8 /* SigUpWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CDE4D1126E87B4000520EE8 /* SigUpWebViewController.swift */; };
 		7CDE4D1426E889B300520EE8 /* MySFSafariViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CDE4D1326E889B300520EE8 /* MySFSafariViewController.swift */; };
+		7CDE4D1626E8A41900520EE8 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CDE4D1526E8A41900520EE8 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +73,7 @@
 		7CDE4D0F26E85CD400520EE8 /* MovieDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailViewController.swift; sourceTree = "<group>"; };
 		7CDE4D1126E87B4000520EE8 /* SigUpWebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SigUpWebViewController.swift; sourceTree = "<group>"; };
 		7CDE4D1326E889B300520EE8 /* MySFSafariViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySFSafariViewController.swift; sourceTree = "<group>"; };
+		7CDE4D1526E8A41900520EE8 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -177,6 +179,7 @@
 			children = (
 				7CDE4D1126E87B4000520EE8 /* SigUpWebViewController.swift */,
 				7CDE4D0526E77FF400520EE8 /* ResultViewController.swift */,
+				7CDE4D1526E8A41900520EE8 /* SettingsViewController.swift */,
 				7CDE4D0026E77EC500520EE8 /* ListViewController.swift */,
 				7CDE4CFE26E76DED00520EE8 /* HomeViewController.swift */,
 				7CDE4CDF26E750AB00520EE8 /* SignInViewController.swift */,
@@ -280,6 +283,7 @@
 				7CDE4D0E26E7D75B00520EE8 /* MoviePosterCollectionViewCell.swift in Sources */,
 				7CDE4CFB26E7535B00520EE8 /* MarkWatchlist.swift in Sources */,
 				7CDE4D0926E7A74900520EE8 /* MovieResultCollectionView.swift in Sources */,
+				7CDE4D1626E8A41900520EE8 /* SettingsViewController.swift in Sources */,
 				7CDE4CE026E750AB00520EE8 /* SignInViewController.swift in Sources */,
 				7CDE4CE826E751C600520EE8 /* Movie.swift in Sources */,
 				7CDE4D1226E87B4000520EE8 /* SigUpWebViewController.swift in Sources */,
